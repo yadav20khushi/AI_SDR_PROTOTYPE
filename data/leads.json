@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Rahul",
+    "role": "CTO",
+    "company": "FintechX",
+    "signal": "Hiring engineers",
+    "industry": "Fintech",
+    "team_size": 25
+  },
+  {
+    "name": "Ananya",
+    "role": "Founder",
+    "company": "HealthAI",
+    "signal": "Raised seed funding",
+    "industry": "HealthTech",
+    "team_size": 12
+  },
+  {
+    "name": "Vikram",
+    "role": "CEO",
+    "company": "SaaSify",
+    "signal": "Scaling team rapidly",
+    "industry": "SaaS",
+    "team_size": 40
+  },
+  {
+    "name": "Neha",
+    "role": "Head of Product",
+    "company": "EduFlow",
+    "signal": "Launching new product",
+    "industry": "EdTech",
+    "team_size": 18
+  },
+  {
+    "name": "Arjun",
+    "role": "CTO",
+    "company": "LogiChain",
+    "signal": "Raised Series A funding",
+    "industry": "Logistics",
+    "team_size": 60
+  }
+]
